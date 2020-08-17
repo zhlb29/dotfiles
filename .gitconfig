@@ -1,0 +1,9 @@
+[user]
+	email = zhlb29@gmail.com
+	name = Libo Zhou
+[core]
+    editor = vim
+[color]
+    ui = auto
+[alias]
+    lg = log --graph --decorate
