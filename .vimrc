@@ -1,5 +1,6 @@
 " general settings
 set nocompatible
+syntax on
 filetype plugin indent on
 set number relativenumber
 set hlsearch incsearch
